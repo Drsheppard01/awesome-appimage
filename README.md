@@ -8,7 +8,7 @@
 		<!img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
-		<sub>Hard rework Awesome-AppImage by Simon Peter.</sub>
+		<sub>Hard rework Awesome-AppImage by DrSheppard.</sub>
 	</p>
 	<br>
 </div>
