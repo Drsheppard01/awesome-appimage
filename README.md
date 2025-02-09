@@ -8,7 +8,7 @@
 		<!img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
-		<sub>Lovingly crafted AppImage tools and resources. Follow me on <a href="https://twitter.com/probonopd">Twitter</a>.</sub>
+		<sub>Hard rework Awesome-AppImage by Simon Peter.</sub>
 	</p>
 	<br>
 </div>
