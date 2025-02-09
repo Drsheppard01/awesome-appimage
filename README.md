@@ -95,7 +95,7 @@
 
 ### Sandboxes
 
-- [AppImage Sandboxing Project](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
+- [AppImage Sandboxing Project](https://github.com/mgord9518/aisap) - CLI utility and library to help sandbox AppImages with bwrap.
 - [Firejail](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
 
 ### Package managers
